@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: serif;
+}
+
+.container{
+  max-width: 600px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+img{
+  width:100%;
+  border: 5px solid white;
+  border-radius: 10px;
+}
+
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 25px;
+}
